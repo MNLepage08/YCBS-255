@@ -1,5 +1,17 @@
-# YCBS-255
-## Statistical Machine Learning
+# YCBS-255: Statistical Machine Learning
+
+
+## Assignments
+1. [Matematical algoritm, descriptive and inferential statistics, and linear regression model :](https://github.com/MNLepage08/YCBS-255/blob/main/Assignment01_(MNL).ipynb)
+   - Write 2 mathematical algorithm.
+   - Create an exponential population distribution. Generate 100 different samples from the population. Estimate the population mean using the lay of large numbers and the central limit theorem. Use appropriate visualization to describe the estimation. Draw an inference from the estimated population parameters and test the hypotheses.
+   - Create simulated data and fit a simple linear regression model. Fit a linear least-squares model to predict y. Use an appropriate visualization to see the sample versus the population. Explain how results change by generating data with less noise.
+2. [Data Exploration (distribution, correlation), Models (LR, LDA, QDA), Evaluation (confusion matrix, accuracy, AUC, F-measure), Cross-Validation, PCA:](https://github.com/MNLepage08/YCBS-255/blob/main/Assignment02_(MNL).ipynb)
+   - Collect the dataset from wage CSV file. Use appropriate descriptive statistical methods to describe the variables and possible associations between them. Create LR, LDA and QDA models and find the probability of a balance < 1500. Evaluate the models using the confusion matrix, precision and AUC.
+   - Collect all data from the ziptrain/ziptest CSV file. Select digits 2 and 7 only. Use the first 2 PCAs to separate the 2 digits. Model with logistic regression to separate the numbers. Evaluate the model with the confusion matrix, accuracy and F-Measure. With all numbers, use the LDA model with 5-fold cross-validation and select the best number of principal components.
+
+
+## Courses
 
 1. Probability and Statistics:
    - Basics of probability & statistics, visualization
