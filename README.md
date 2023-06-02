@@ -1,7 +1,7 @@
 # YCBS-255: Statistical Machine Learning
 
 
-## Assignments
+## :rocket: Assignments
 1. [Matematical Algoritm, Descriptive & Inferential Statistics, and Linear Regression Model :](https://github.com/MNLepage08/YCBS-255/blob/main/Assignment01_(MNL).ipynb)
    - Write 2 mathematical algorithm: Greatest common divisor / Prime numbers.
    - Create an exponential population distribution. Generate 100 different samples from the population. Estimate the population mean using the lay of large numbers and the central limit theorem. Use appropriate visualization to describe the estimation. Draw an inference from the estimated population parameters and test the hypotheses.
@@ -17,7 +17,7 @@
 
 
 
-## Courses
+## :mortar_board: Courses
 
 1. Probability and Statistics:
    - Basics of probability & statistics, visualization<p>
@@ -40,6 +40,6 @@
 10. Introduction to Unsupervised Learning:
     - Cluster analysis (k-means & hierarchical clustering)
 
-## Bibliography
+## :books: Bibliography
 * [An Introduction to Statistical Learning](https://hastie.su.domains/ISLR2/ISLRv2_website.pdf)
 * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
