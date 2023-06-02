@@ -2,7 +2,7 @@
 
 
 ## Assignments
-1. [Matematical algoritm, descriptive and inferential statistics, and linear regression model :](https://github.com/MNLepage08/YCBS-255/blob/main/Assignment01_(MNL).ipynb)
+1. [Matematical Algoritm, Descriptive & Inferential Statistics, and Linear Regression Model :](https://github.com/MNLepage08/YCBS-255/blob/main/Assignment01_(MNL).ipynb)
    - Write 2 mathematical algorithm.
    - Create an exponential population distribution. Generate 100 different samples from the population. Estimate the population mean using the lay of large numbers and the central limit theorem. Use appropriate visualization to describe the estimation. Draw an inference from the estimated population parameters and test the hypotheses.
    - Create simulated data and fit a simple linear regression model. Fit a linear least-squares model to predict y. Use an appropriate visualization to see the sample versus the population. Explain how results change by generating data with less noise.<p>
