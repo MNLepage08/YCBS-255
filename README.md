@@ -1,5 +1,5 @@
 # YCBS-255: Statistical Machine Learning
-
+<img width="701" alt="Capture d’écran, le 2023-06-04 à 08 08 42" src="https://github.com/MNLepage08/MNLepage08/assets/113123425/5edce3ef-fefe-42ab-a978-d2e0f628e1ef">
 
 ## :rocket: Assignments
 1. [Matematical Algoritm, Descriptive & Inferential Statistics, and Linear Regression Model :](https://github.com/MNLepage08/YCBS-255/blob/main/Assignment01_(MNL).ipynb)<p>
